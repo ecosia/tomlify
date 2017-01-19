@@ -7,7 +7,7 @@ Installation
 ------------
 
 ```
-npm install [--save] browserify tomlify
+npm install [--save] browserify @ecosia/tomlify
 ```
 
 Usage
